@@ -207,8 +207,8 @@ a::before, a::after {
   height: 2rem;
   outline: none;
   cursor: pointer;
-  top: 5%;
-  right: 5%;
+  top: 3%;
+  right: 3%;
   border-radius: 2.5rem;
   background-color: #fff;
   -webkit-appearance: none;
